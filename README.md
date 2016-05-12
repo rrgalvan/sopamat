@@ -1,4 +1,5 @@
-# Sopamat: Software Paralelo para Matemáticas
+# Sopamat: Parallel Software in Mathematics
+   *(Software Paralelo en Matemáticas)*
 
 La intención de este proyecto es utilizar distintos lenguajes y
 paradigmas de programación paralela para resolver problemas extraídos
