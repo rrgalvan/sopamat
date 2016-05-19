@@ -1,5 +1,7 @@
 # Sopamat
 
+[![Join the chat at https://gitter.im/rrgalvan/sopamat](https://badges.gitter.im/rrgalvan/sopamat.svg)](https://gitter.im/rrgalvan/sopamat?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
    *Software Paralelo en Matemáticas*
 
    *Parallel Software in Mathematics*
