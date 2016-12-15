@@ -179,12 +179,14 @@ int main()
 
 	cuda_jacobi_solve(test, x0, b, matrixSize, &iter);
 
-
+	// You can enable printing with nvcc -D JACOBI_PRINT_SOLUTION
+	#ifdef JACOBI_PRINT_SOLUTION
 	printf("x0=(");
 	for (i = 0; i < matrixSize; i++) {
 		printf("%f,", x0[i]);
 	}
 	printf(")");
+	#endif
 
 	system("pause");
 

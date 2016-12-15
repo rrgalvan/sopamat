@@ -160,7 +160,8 @@ int main()
 			break;
 	}
 
-	if (_DEBUG) system("pause");
+	#ifdef _DEBUG
+	system("pause");
+	#endif
     return 0;
 }
-
